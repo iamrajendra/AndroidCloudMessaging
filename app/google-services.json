@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "84480201252",
+    "firebase_url": "https://socialauth-8415c.firebaseio.com",
+    "project_id": "socialauth-8415c",
+    "storage_bucket": "socialauth-8415c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:84480201252:android:ffee4201789a8965",
+        "android_client_info": {
+          "package_name": "io.github.iamrajendra.androidcloudmessaging"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "84480201252-bjfjamhm0u0lvb6ild89unb731fvolli.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "84480201252-bjfjamhm0u0lvb6ild89unb731fvolli.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIlg8ehevaSFTcudxgYlj5W-PPV_72oQA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

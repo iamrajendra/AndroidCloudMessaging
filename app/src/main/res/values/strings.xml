@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AndroidCloudMessaging</string>
+    <string name="default_notification_channel_id">"io.github.iamrajendra.androidcloudmessaging"</string>
+</resources>
